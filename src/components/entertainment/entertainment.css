@@ -1,0 +1,25 @@
+.eTitle{
+    text-align: center;
+    font-size: 80px;
+}
+
+.eBox {
+    border: solid;
+    text-align: center; 
+    overflow: scroll;
+    height: 70vh;
+    width: 80vw;
+    margin-left: 10%;  
+}
+
+.eThumbnail{
+    padding-top: 50px;
+    padding-bottom: 40px;
+    border: solid 1px;
+}
+
+.eImg{
+    width: 50%;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}

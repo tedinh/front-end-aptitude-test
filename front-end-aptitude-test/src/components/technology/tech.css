@@ -1,0 +1,25 @@
+.techTitle{
+    font-size: 80px;
+    text-align: center;
+}
+
+.techBox{
+    border: solid;
+    text-align: center; 
+    overflow: scroll;
+    height: 70vh;
+    width: 80vw;
+    margin-left: 10%;  
+}
+
+.techThumbnail{
+    padding-top: 50px;
+    padding-bottom: 40px;
+    border: solid 1px;
+}
+
+.techImg{
+    width: 50%;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
